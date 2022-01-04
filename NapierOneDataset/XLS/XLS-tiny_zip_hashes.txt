@@ -1,0 +1,45 @@
+
+
+****************************************************************
+
+    Hash Console v1.5 by SecurityXploded
+
+    http://securityxploded.com/hash-console.php
+
+****************************************************************
+
+
+ ________________________________________________________
+
+ :: Generating Hash for File 'XLS-tiny.zip'
+ ________________________________________________________
+
+
+
+ Hash Type         Hash Length      Hash Value
+ ========================================================================================================================
+
+ CRC32             4                87a906ca
+
+ ADLER32           4                710e5ccb
+
+ RIPEMD160         20               036823df9b47e3af1304a0b52676d08d9b1176ea
+
+ MD2               16               67f6185e3fd2feac49ed376b91328ea2
+
+ MD4               16               391aaa42b35862758a3acf23d73a0876
+
+ MD5               16               8eab5b032a23fc3ac7f7059212bc65cc
+
+ SHA1              20               ca99cf26fd5faf5a683a2d122560269285702a38
+
+ SHA256            32               43a6307553e065636c7b9adc0e40c898a31492636a65a0ceb40d0d438a154090
+
+ SHA384            48               ba4c2cc056b879de3a6ab0111050d2aaed0b354999965e4ce1f6b980d26ac72606a4d4a5bea2289dadebc33f85d15de0
+
+ SHA512            64               85330b764998463371a94fbe7f7731b65179264853370f0e40e0e8680adc4f7292830cd7c06ef9889ce8359f94f5b205ed819a5e86baba5f7cad27d390b18f78
+
+ HAVAL256-4        32               11c838aa134264aa5653df83e213fad3bac46897ddecc7c33a494c6072609674
+
+ WHIRLPOOL         64               09cf37215fec4d4b2d39a0744951deb4001db919c9494fa2a9621d6f7e715dffd7267f338ec2b09759e4dbc033a1f73001db7069a70cfa36e320f75fb626908a
+

@@ -1,0 +1,45 @@
+
+
+****************************************************************
+
+    Hash Console v1.5 by SecurityXploded
+
+    http://securityxploded.com/hash-console.php
+
+****************************************************************
+
+
+ ________________________________________________________
+
+ :: Generating Hash for File 'PDF-tiny.zip'
+ ________________________________________________________
+
+
+
+ Hash Type         Hash Length      Hash Value
+ ========================================================================================================================
+
+ CRC32             4                302d5624
+
+ ADLER32           4                37a73e20
+
+ RIPEMD160         20               d310215a2299eb83eeb0af859ebc782072d907ab
+
+ MD2               16               e0cd4ed8c6e0aaa3179a542825e98b06
+
+ MD4               16               1c963e22aaf4b0484b773aba5e568566
+
+ MD5               16               9cbbddb8fa6bb562fee25d60b747783a
+
+ SHA1              20               b6b068445b087c9c0e895a91a51f0d0bd50e0b27
+
+ SHA256            32               c30b0a70b420c2e1b81ae600edb5eda3638ac2cab302331f5135d07cd189a276
+
+ SHA384            48               d5e60113ef72f828e645da118c080fdd6825313e7cfad34f2064c01b2d1a8716c091c8b784734a067fd18a6d9aa667ce
+
+ SHA512            64               0b84feb32ffe944d7e5900453c8fa172a491b49e46922da61407e2aa76775a1c17fa73ab3a7ccb21027933d3d7941e2c34bf75d07a8e3e62f386ec40942f98d8
+
+ HAVAL256-4        32               573c2892ae0ccd9eda8401e9cfad73a6bf06f935faf078ffb1fd5ffdd92fb50d
+
+ WHIRLPOOL         64               5465d8a17b55aa657e4702483f98c53bf09c71cbc36b7af1b0a5802641172ff9f3485cbf057945788e89de9b47debbdf1249c54d7b9202bd5786160ab54a8228
+

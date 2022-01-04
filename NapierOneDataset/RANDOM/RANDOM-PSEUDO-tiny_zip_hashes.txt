@@ -1,0 +1,45 @@
+
+
+****************************************************************
+
+    Hash Console v1.5 by SecurityXploded
+
+    http://securityxploded.com/hash-console.php
+
+****************************************************************
+
+
+ ________________________________________________________
+
+ :: Generating Hash for File 'RANDOM-tiny.zip'
+ ________________________________________________________
+
+
+
+ Hash Type         Hash Length      Hash Value
+ ========================================================================================================================
+
+ CRC32             4                be0507ee
+
+ ADLER32           4                d9f7abe4
+
+ RIPEMD160         20               e7bb1c106b22a91c9e87d222ab40a003bc2be8d7
+
+ MD2               16               5136b929dfeee4548ba444045ce90489
+
+ MD4               16               7776ee11a546cbe6c4e501e97fe06924
+
+ MD5               16               ee032d676b393125200259621b94bc47
+
+ SHA1              20               b86a3a1f8b5f6adb2ad7a63ca50551a5b5b04604
+
+ SHA256            32               1d86c26e86aaeba98f9ab788bee3ca1d7340f0b749da4f88d31fd5be6e2dede0
+
+ SHA384            48               80a227c5a3f8c83be35bfd7ff34beadfdc29cfa194c48a0af0aaededde818c6d819986a191cba8bbaa93e3abe2d72eb6
+
+ SHA512            64               5e0433a2580ff3b817676484c2572e7f3f89517f9fb93cc0dd9dfb830c1ca6fec780b01f41ba3276a2420ad71f8592c2bfe9e28834f48f7f214acc89e66539d0
+
+ HAVAL256-4        32               43095b86ca7722c73e1ebd1d3093d610ada74997fa5833e44aeec8096efe849c
+
+ WHIRLPOOL         64               52923dd0193017a825b9899b83da3a0f9f0f581f8cb6efc5e263d34a7b4c2db8160312a09d3487137bc7af0ca550ad61b37c40b22c38b408de87885c8c472efa
+
