@@ -1,0 +1,4 @@
+./NapierOneDataset/EXTRA copy/RANSOMWARE-DHARMA-tiny
+./NapierOneDataset/EXTRA copy/RANSOMWARE-MAZE-tiny
+./NapierOneDataset/EXTRA copy/RANSOMWARE-NETWALKER-tiny
+./NapierOneDataset/DOC copy/DOC-tiny

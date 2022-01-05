@@ -1,0 +1,14 @@
+./NapierOneDataset/DOC/DOC-tiny
+./NapierOneDataset/DOCX/DOCX-tiny
+./NapierOneDataset/EXTRA/RANSOMWARE-MAZE-tiny
+./NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny
+./NapierOneDataset/EXTRA/RANSOMWARE-NETWALKER-tiny
+./NapierOneDataset/EXTRA/RANSOMWARE-NOTPETYA-tiny
+./NapierOneDataset/EXTRA/RANSOMWARE-PHOBOS-tiny
+./NapierOneDataset/EXTRA/RANSOMWARE-RYUK-tiny
+./NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny
+./NapierOneDataset/JPG/JPG-from-web-tiny
+./NapierOneDataset/PDF/PDF-tiny
+./NapierOneDataset/PPTX/PPTX-tiny
+./NapierOneDataset/XLS/XLS-tiny
+./NapierOneDataset/XLSX/XLSX-tiny
