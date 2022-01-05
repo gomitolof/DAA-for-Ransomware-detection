@@ -1,6 +1,2 @@
-./NapierOneDataset/EXTRA copy/RANSOMWARE-DHARMA-tiny
-./NapierOneDataset/EXTRA copy/RANSOMWARE-MAZE-tiny
-./NapierOneDataset/EXTRA copy/RANSOMWARE-NETWALKER-tiny
-./NapierOneDataset/RANDOM/RANDOM-PSEUDO-tiny
-./NapierOneDataset/DOC copy/DOC-tiny
-./NapierOneDataset/JPG/JPG-from-web-tiny
+./NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny
+./NapierOneDataset/XLSX/XLSX-tiny
