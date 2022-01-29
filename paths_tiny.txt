@@ -1,2 +1,0 @@
-./NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny
-./NapierOneDataset/XLSX/XLSX-tiny

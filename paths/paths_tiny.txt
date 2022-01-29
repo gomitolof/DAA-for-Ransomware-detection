@@ -1,0 +1,6 @@
+./NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny
+./NapierOneDataset/XLSX/XLSX-tiny
+./NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny
+./NapierOneDataset/RANDOM/RANDOM-PSEUDO-tiny
+./NapierOneDataset/JPG/JPG-from-web-tiny
+./NapierOneDataset/PDF/PDF-tiny

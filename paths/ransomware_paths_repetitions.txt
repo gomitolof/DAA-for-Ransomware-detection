@@ -1,0 +1,7 @@
+./NapierOneDataset/EXTRA/RANSOMWARE-MAZE-tiny-repeat-ciphertext
+./NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny-repeat-ciphertext
+./NapierOneDataset/EXTRA/RANSOMWARE-NETWALKER-tiny-repeat-ciphertext
+./NapierOneDataset/EXTRA/RANSOMWARE-NOTPETYA-tiny-repeat-ciphertext
+./NapierOneDataset/EXTRA/RANSOMWARE-PHOBOS-tiny-repeat-ciphertext
+./NapierOneDataset/EXTRA/RANSOMWARE-RYUK-tiny-repeat-ciphertext
+./NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny-repeat-ciphertext
