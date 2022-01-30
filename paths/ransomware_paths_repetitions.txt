@@ -5,3 +5,11 @@
 ./NapierOneDataset/EXTRA/RANSOMWARE-PHOBOS-tiny-repeat-ciphertext
 ./NapierOneDataset/EXTRA/RANSOMWARE-RYUK-tiny-repeat-ciphertext
 ./NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny-repeat-ciphertext
+./NapierOneDataset/RANDOM/RANDOM-PSEUDO-tiny
+./NapierOneDataset/RANDOM/RANDOM-PURE-tiny
+./NapierOneDataset/XLSX/XLSX-tiny
+./NapierOneDataset/CSS/CSS-tiny
+./NapierOneDataset/MKV/MKV-tiny
+./NapierOneDataset/PNG/PNG-c0-tiny
+./NapierOneDataset/TAR/TAR-tiny
+./NapierOneDataset/DOC/DOC-tiny

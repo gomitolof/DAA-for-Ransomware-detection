@@ -1,0 +1,15 @@
+./NapierOneDataset/EXTRA/RANSOMWARE-MAZE-tiny-common-sequences
+./NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny-common-sequences
+./NapierOneDataset/EXTRA/RANSOMWARE-NETWALKER-tiny-common-sequences
+./NapierOneDataset/EXTRA/RANSOMWARE-NOTPETYA-tiny-common-sequences
+./NapierOneDataset/EXTRA/RANSOMWARE-PHOBOS-tiny-common-sequences
+./NapierOneDataset/EXTRA/RANSOMWARE-RYUK-tiny-common-sequences
+./NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny-common-sequences
+./NapierOneDataset/RANDOM/RANDOM-PSEUDO-tiny
+./NapierOneDataset/RANDOM/RANDOM-PURE-tiny
+./NapierOneDataset/XLSX/XLSX-tiny
+./NapierOneDataset/CSS/CSS-tiny
+./NapierOneDataset/MKV/MKV-tiny
+./NapierOneDataset/PNG/PNG-c0-tiny
+./NapierOneDataset/TAR/TAR-tiny
+./NapierOneDataset/DOC/DOC-tiny
