@@ -5,3 +5,5 @@
 ./NapierOneDataset/EXTRA/RANSOMWARE-PHOBOS-tiny
 ./NapierOneDataset/EXTRA/RANSOMWARE-RYUK-tiny
 ./NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny
+./NapierOneDataset/EXTRA/Wannacry-tiny
+./NapierOneDataset/EXTRA/BadRabbit-tiny
