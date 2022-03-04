@@ -1,0 +1,2 @@
+prendere non solo un frammento random, ma anche i singoli bytes nel frammento in maniera randomica
+considerare più variabili come parametri e vedere i risultati migliori usando diversi valori per i parametri (e.g., upper_bound, lower_bound)
