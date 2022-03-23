@@ -1,9 +1,0 @@
-./NapierOneDataset/EXTRA/RANSOMWARE-MAZE-tiny
-./NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny
-./NapierOneDataset/EXTRA/RANSOMWARE-NETWALKER-tiny
-./NapierOneDataset/EXTRA/RANSOMWARE-NOTPETYA-tiny
-./NapierOneDataset/EXTRA/RANSOMWARE-PHOBOS-tiny
-./NapierOneDataset/EXTRA/RANSOMWARE-RYUK-tiny
-./NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny
-./NapierOneDataset/EXTRA/Wannacry-tiny
-./NapierOneDataset/EXTRA/BadRabbit-tiny

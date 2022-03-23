@@ -1,2 +1,0 @@
-./NapierOneDataset/CSS/CSS-tiny
-./NapierOneDataset/EXTRA/Wannacry-tiny
