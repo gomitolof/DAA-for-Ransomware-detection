@@ -25,6 +25,15 @@
 ../NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny-common-sequences
 ../NapierOneDataset/EXTRA/Wannacry-tiny-common-sequences
 ../NapierOneDataset/EXTRA/BadRabbit-tiny-common-sequences
+../NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny-low-entropy-files
+../NapierOneDataset/EXTRA/RANSOMWARE-MAZE-tiny-low-entropy-files
+../NapierOneDataset/EXTRA/RANSOMWARE-NETWALKER-tiny-low-entropy-files
+../NapierOneDataset/EXTRA/RANSOMWARE-NOTPETYA-tiny-low-entropy-files
+../NapierOneDataset/EXTRA/RANSOMWARE-PHOBOS-tiny-low-entropy-files
+../NapierOneDataset/EXTRA/RANSOMWARE-RYUK-tiny-low-entropy-files
+../NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny-low-entropy-files
+../NapierOneDataset/EXTRA/Wannacry-tiny-low-entropy-files
+../NapierOneDataset/EXTRA/BadRabbit-tiny-low-entropy-files
 ../NapierOneDataset/EXTRA/RANSOMWARE-MAZE-tiny
 ../NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny
 ../NapierOneDataset/EXTRA/RANSOMWARE-NETWALKER-tiny
