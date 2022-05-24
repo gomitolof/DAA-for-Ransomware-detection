@@ -1,9 +1,9 @@
-./DAA-for-Ransomware-detection/stress test/NapierOneDataset/EXTRA/RANSOMWARE-MAZE-tiny
-./DAA-for-Ransomware-detection/stress test/NapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny
-./DAA-for-Ransomware-detection/stress test/NapierOneDataset/EXTRA/RANSOMWARE-NETWALKER-tiny
-./DAA-for-Ransomware-detection/stress test/NapierOneDataset/EXTRA/RANSOMWARE-NOTPETYA-tiny
-./DAA-for-Ransomware-detection/stress test/NapierOneDataset/EXTRA/RANSOMWARE-PHOBOS-tiny
-./DAA-for-Ransomware-detection/stress test/NapierOneDataset/EXTRA/RANSOMWARE-RYUK-tiny
-./DAA-for-Ransomware-detection/stress test/NapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny
-./DAA-for-Ransomware-detection/stress test/NapierOneDataset/EXTRA/Wannacry-tiny
-./DAA-for-Ransomware-detection/stress test/NapierOneDataset/EXTRA/BadRabbit-tiny
+../MiniNapierOneDataset/EXTRA/RANSOMWARE-MAZE-tiny
+../MiniNapierOneDataset/EXTRA/RANSOMWARE-DHARMA-tiny
+../MiniNapierOneDataset/EXTRA/RANSOMWARE-NETWALKER-tiny
+../MiniNapierOneDataset/EXTRA/RANSOMWARE-NOTPETYA-tiny
+../MiniNapierOneDataset/EXTRA/RANSOMWARE-PHOBOS-tiny
+../MiniNapierOneDataset/EXTRA/RANSOMWARE-RYUK-tiny
+../MiniNapierOneDataset/EXTRA/RANSOMWARE-SODINOKIBI-tiny
+../MiniNapierOneDataset/EXTRA/Wannacry-tiny
+../MiniNapierOneDataset/EXTRA/BadRabbit-tiny
