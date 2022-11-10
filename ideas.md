@@ -1,0 +1,2 @@
+- prendere non solo un frammento random, ma anche i singoli bytes nel frammento in maniera randomica
+- prendere più frammnenti con i migliori parametri trovati nell'analisi

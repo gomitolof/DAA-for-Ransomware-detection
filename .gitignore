@@ -79,6 +79,7 @@ target/
 
 # Dataset
 NapierOneDataset/
+MiniNapierOneDataset/
 
 # IPython
 profile_default/
